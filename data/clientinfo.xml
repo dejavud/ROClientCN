@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<clientinfo>
+	<servicetype>china</servicetype>
+	<servertype>primary</servertype>
+	<connection>
+		<display>Local</display>
+      		<address>127.0.0.1</address>
+      		<port>6900</port>
+      		<version>46</version>
+      		<langtype>3</langtype>
+		<registrationweb>http://localhost/</registrationweb>
+   	</connection>
+</clientinfo>
