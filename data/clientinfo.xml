@@ -3,11 +3,13 @@
 	<servicetype>china</servicetype>
 	<servertype>primary</servertype>
 	<connection>
-		<display>Local</display>
-      		<address>127.0.0.1</address>
-      		<port>6900</port>
-      		<version>46</version>
-      		<langtype>3</langtype>
+		<display>My Ragnarok</display>
+		<desc>Local Server</desc>
+		<balloon>My Ragnarok</balloon>
+        <address>127.0.0.1</address>
+        <port>6900</port>
+        <version>20</version>
+        <langtype>3</langtype>
 		<registrationweb>http://localhost/</registrationweb>
    	</connection>
 </clientinfo>
