@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="gb2312" ?>
 <clientinfo>
-	<servicetype>china</servicetype>
-	<servertype>primary</servertype>
-	<connection>
-		<display>My Ragnarok</display>
-		<desc>Local Server</desc>
-		<balloon>My Ragnarok</balloon>
+    <servicetype>china</servicetype>
+    <servertype>primary</servertype>
+    <connection>
+        <display>My Ragnarok</display>
+        <desc>Local Server</desc>
+        <balloon>My Ragnarok</balloon>
         <address>127.0.0.1</address>
         <port>6900</port>
         <version>20</version>
         <langtype>3</langtype>
-		<registrationweb>http://localhost/</registrationweb>
-   	</connection>
+        <registrationweb>http://localhost/</registrationweb>
+    </connection>
 </clientinfo>
