@@ -19,12 +19,12 @@ end
 --
 
 OptionInfoList["Trilinear"] = 0
-OptionInfoList["Bgm_Volume"] = 100
-OptionInfoList["Effect_Volume"] = 100
-OptionInfoList["MouseExclusive"] = 1
+OptionInfoList["Bgm_Volume"] = 20
+OptionInfoList["Effect_Volume"] = 20
+OptionInfoList["MouseExclusive"] = 0
 OptionInfoList["ISFULLSCREENMODE"] = 0
-OptionInfoList["WIDTH"] = 640
-OptionInfoList["HEIGHT"] = 480
+OptionInfoList["WIDTH"] = 1024
+OptionInfoList["HEIGHT"] = 768
 OptionInfoList["BITPERPIXEL"] = 16
 OptionInfoList["DEVICECNT"] = 0
 OptionInfoList["MODECNT"] = 0
@@ -38,7 +38,7 @@ CmdOnOffList["/noctrl"] = 1
 CmdOnOffList["/skillfail"] = 1
 CmdOnOffList["/notalkmsg"] = 0
 CmdOnOffList["/notalkmsg2"] = 0
-CmdOnOffList["/showname"] = 1
+CmdOnOffList["/showname"] = 0
 CmdOnOffList["/fog"] = 1
 CmdOnOffList["/aura"] = 1
 CmdOnOffList["/window"] = 0
@@ -60,4 +60,4 @@ CmdOnOffList["/q2"] = 0
 
 -- Preserved client settings
 --
-
+OptionInfoList["Show_SkillDescript"] = 1
