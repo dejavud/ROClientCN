@@ -3,7 +3,7 @@
 15 Disable HShield (Recommended)
 19 Enable Title Bar Menu
 24 Fix Camera Angles (Recommended)
-31 Increase Zoom Out 75%
+30 Increase Zoom Out 50%
 33 Always Call SelectKoreaClientInfo() (Recommended)
 34 Enable /showname (Recommended)
 35 Read Data Folder First
@@ -19,6 +19,7 @@
 49 Enable Multiple GRFs (Recommended)
 53 Use Ascii on All Langtypes (Recommended)
 64 @ Bug Fix (Recommended)
+65 Load Custom lua file instead of iteminfo.lub
 73 Remove Hourly Announce (Recommended)
 74 Increase Screenshot Quality
 213 Disable Help Message on Login (Recommended)
