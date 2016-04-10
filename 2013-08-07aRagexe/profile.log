@@ -1,0 +1,37 @@
+3 Chat Flood Remove Limit
+9 Disable 1rag1 type parameters (Recommended)
+10 Disable 4 Letter Character Name Limit
+13 Disable Ragexe Filename Check (Recommended)
+15 Disable HShield (Recommended)
+19 Enable Title Bar Menu
+20 Extend Chat Box
+21 Extend Chat Room Box
+24 Fix Camera Angles (Recommended)
+30 Increase Zoom Out 50%
+33 Always Call SelectKoreaClientInfo() (Recommended)
+34 Enable /showname (Recommended)
+35 Read Data Folder First
+36 Read msgstringtable.txt (Recommended)
+37 Read questid2display.txt (Recommended)
+38 Remove Gravity Ads (Recommended)
+39 Remove Gravity Logo (Recommended)
+40 Restore Login Window (Recommended)
+41 Disable Nagle Algorithm (Recommended)
+44 Translate Client (Recommended)
+47 Use Ragnarok Icon
+48 Use Plain Text Descriptions (Recommended)
+49 Enable Multiple GRFs (Recommended)
+53 Use Ascii on All Langtypes (Recommended)
+61 Disable Packet Encryption
+64 @ Bug Fix (Recommended)
+65 Load Custom lua file instead of iteminfo.lub
+68 Enable 64k Hairstyle
+71 Ignore Resource Errors
+72 Ignore Missing Palette Error
+73 Remove Hourly Announce (Recommended)
+74 Increase Screenshot Quality
+209 Enable Mail Box for All Langtypes
+213 Disable Help Message on Login (Recommended)
+84 Remove Serial Display (Recommended)
+90 Enable DNS Support (Recommended)
+97 Cancel to Login Window (Recommended)

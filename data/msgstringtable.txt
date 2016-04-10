@@ -1752,6 +1752,7 @@ You have not registered to sell the item.Please Register to sell item.#
 OTP密码是6位。#
 未找到OTP信息。请向管理员咨询。#
 添加了组队广告。#
+OTP认证失败。#
 正在招募队员#
 角色#
 1转职业#
