@@ -8,7 +8,7 @@
         <balloon>My Ragnarok</balloon>
         <address>127.0.0.1</address>
         <port>6900</port>
-        <version>46</version>
+        <version>45</version>
         <langtype>3</langtype>
         <registrationweb>http://localhost/</registrationweb>
     </connection>
