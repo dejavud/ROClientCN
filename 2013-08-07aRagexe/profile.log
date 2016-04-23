@@ -25,7 +25,6 @@
 61 Disable Packet Encryption
 64 @ Bug Fix (Recommended)
 65 Load Custom lua file instead of iteminfo.lub
-68 Enable 64k Hairstyle
 71 Ignore Resource Errors
 72 Ignore Missing Palette Error
 73 Remove Hourly Announce (Recommended)
