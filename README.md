@@ -6,4 +6,4 @@ Some of translations and resources are from:
 - [ROenglishRE](https://github.com/zackdreaver/ROenglishRE)
 - [rAthenaCN](http://rathena.cn/)
 
-I really appreciate their work!
+I really appreciate their works!
